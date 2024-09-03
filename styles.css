@@ -1,4 +1,11 @@
 .hello{
   background-color: blue;
-  text-align: center;
+  text-align: left;
+  font-size: xx-large;
+  color: white;
+  padding-left: 50px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+  
 }
